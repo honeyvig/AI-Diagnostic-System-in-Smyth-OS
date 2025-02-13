@@ -1,0 +1,1 @@
+# AI-Diagnostic-System-in-Smyth-OS
